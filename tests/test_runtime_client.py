@@ -17,6 +17,7 @@ from hflow.runtime import (
     AirflowClient,
     AirflowClientError,
     AirflowDagRun,
+    AirflowHealth,
     AirflowTaskInstance,
     BearerToken,
     PasswordCredentials,
